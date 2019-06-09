@@ -1,0 +1,9 @@
+
+bomberman
+
+\.vscode/
+
+CMakeCache.txt
+./CMakeFiles
+map.txt
+./src/*.o

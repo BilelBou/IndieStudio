@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\$67V000-QIIGRF35J0M4\Documents\Epitech\OOP_indie_studio_2018\src\Core.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\$67V000-QIIGRF35J0M4\Documents\Epitech\OOP_indie_studio_2018\src\Game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\$67V000-QIIGRF35J0M4\Documents\Epitech\OOP_indie_studio_2018\src\Menu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\$67V000-QIIGRF35J0M4\Documents\Epitech\OOP_indie_studio_2018\src\Player1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\$67V000-QIIGRF35J0M4\Documents\Epitech\OOP_indie_studio_2018\src\Player2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\$67V000-QIIGRF35J0M4\Documents\Epitech\OOP_indie_studio_2018\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\$67V000-QIIGRF35J0M4\Documents\Epitech\OOP_indie_studio_2018\include\Core.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\$67V000-QIIGRF35J0M4\Documents\Epitech\OOP_indie_studio_2018\include\EventReceiver.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\$67V000-QIIGRF35J0M4\Documents\Epitech\OOP_indie_studio_2018\include\Game.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\$67V000-QIIGRF35J0M4\Documents\Epitech\OOP_indie_studio_2018\include\IPlayer.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\$67V000-QIIGRF35J0M4\Documents\Epitech\OOP_indie_studio_2018\include\Menu.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\$67V000-QIIGRF35J0M4\Documents\Epitech\OOP_indie_studio_2018\include\Player1.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\$67V000-QIIGRF35J0M4\Documents\Epitech\OOP_indie_studio_2018\include\Player2.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\$67V000-QIIGRF35J0M4\Documents\Epitech\OOP_indie_studio_2018\include\Player3.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\$67V000-QIIGRF35J0M4\Documents\Epitech\OOP_indie_studio_2018\include\Player4.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\$67V000-QIIGRF35J0M4\Documents\Epitech\OOP_indie_studio_2018\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{CF4E8C91-11C6-3168-B10F-531CE52D9922}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{D4C4EB79-BEA3-3917-B2CB-5612F1798B4F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

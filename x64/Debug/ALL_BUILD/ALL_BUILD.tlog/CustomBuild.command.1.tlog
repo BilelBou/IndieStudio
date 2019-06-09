@@ -1,0 +1,10 @@
+^C:\USERS\$67V000-QIIGRF35J0M4\DOCUMENTS\EPITECH\OOP_INDIE_STUDIO_2018\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/"$"67V000-QIIGRF35J0M4/Documents/Epitech/OOP_indie_studio_2018 -BC:/Users/"$"67V000-QIIGRF35J0M4/Documents/Epitech/OOP_indie_studio_2018 --check-stamp-file C:/Users/"$"67V000-QIIGRF35J0M4/Documents/Epitech/OOP_indie_studio_2018/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
